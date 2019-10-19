@@ -10,7 +10,7 @@
 <channel>
 	<title>psyki</title>
 	<atom:link href="http://psyki.ml/feed/" rel="self" type="application/rss+xml" />
-	<link>http://psyki.ml</link>
+	<link>http://psyki.ml/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sat, 19 Oct 2019 19:44:45 +0000</lastBuildDate>
 	<language>en-US</language>
