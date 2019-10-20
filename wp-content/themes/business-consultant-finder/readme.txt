@@ -1,9 +1,9 @@
 === Business Consultant Finder ===
 Contributors: athemeart
-Donate link: https://athemeart.com/downloads/shopstore/
+Donate link: https://athemeart.com/downloads/business-consultant-finder/
 Requires at least: 4.0
-Tested up to: 5.2.1
-Stable tag: 1.7
+Tested up to: 5.2.4
+Stable tag: 2.0
 Requires PHP: 5.2.5
 License: GPLv3 
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -121,6 +121,15 @@ source: https://athemeart.com/downloads/trim/
 1. screenshot.png
 
 == Upgrade Notice  ==
+
+= 2.0 =
+* Sidebar issue fixed
+
+= 1.9 =
+* Text Domain Updated
+
+= 1.8 =
+* Footer credit link update
 
 = 1.7 =
 * Review Team feedback updated

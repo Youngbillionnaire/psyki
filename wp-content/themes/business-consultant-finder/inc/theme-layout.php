@@ -239,7 +239,7 @@ if ( ! function_exists( 'business_consultant_finder_footer' ) ) :
       <div class="site-info">
     	<?php
                 /* translators: 1: Theme Developer 2: WordPress. */
-                printf( esc_html__( 'Theme By %1$s - Proudly powered by %2$s .', 'business-consultant-finder' ), '<a href="https://athemeart.com/downloads/business-consultant-finder/">aThemeArt</a>', '<a href="https://wordpress.org">WordPress</a>' );
+                printf( esc_html__( 'Theme %3$s By %1$s - Proudly powered by %2$s .', 'business-consultant-finder' ), '<a href="https://athemeart.com/" target="_blank">aThemeArt</a>', '<a href="https://wordpress.org" target="_blank">WordPress</a>','<a href="https://athemeart.com/downloads/business-consultant-finder/" target="_blank" rel="nofollow">BCF</a>' );
                 ?>
       </div>
       
