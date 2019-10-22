@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Bobcat at Dawn	</title>
+	<atom:link href="https://psyki.ml/2018/12/26/bobcat-at-dawn-4/feed/" rel="self" type="application/rss+xml" />
+	<link>https://psyki.ml/2018/12/26/bobcat-at-dawn-4/</link>
+	<description>Pranormal World</description>
+	<lastBuildDate>Wed, 26 Dec 2018 10:45:05 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
+</channel>
+</rss>
